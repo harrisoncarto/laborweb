@@ -1,0 +1,155 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.833,
+					37.8745
+				]
+			},
+			"properties": {
+				"event": "The Battle of Blair Mountain",
+				"date": "August 25, 1921–September 2, 1921",
+				"killed": "50–100"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.395533,
+					38.1907
+				]
+			},
+			"properties": {
+				"event": "Paint Creek Mine War",
+				"date": "April 18, 1912–July 1913",
+				"killed": "Up to 50"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-104.422944,
+					37.307389
+				]
+			},
+			"properties": {
+				"event": "Ludlow Massacre",
+				"date": "April 20, 1914",
+				"killed": "12 children, 8 adults"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.974966,
+					40.456201
+				]
+			},
+			"properties": {
+				"event": "Pittsburgh railroad strike of 1877",
+				"date": "July 19–30, 1877",
+				"killed": "40"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.619439,
+					39.285011
+				]
+			},
+			"properties": {
+				"event": "Baltimore railroad strike of 1877",
+				"date": "July 16–29, 1877",
+				"killed": "10-22"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.819689,
+					29.797770
+				]
+			},
+			"properties": {
+				"event": "Thibodaux massacre",
+				"date": "November 22-25, 1887",
+				"killed": "Approximately 60"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.646459,
+					41.849276
+				]
+			},
+			"properties": {
+				"event": "Battle of the Viaduct",
+				"date": "July 25, 1887",
+				"killed": "30"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.924200,
+					40.335217
+				]
+			},
+			"properties": {
+				"event": "Reading Railroad Massacre",
+				"date": "July 23, 1877",
+				"killed": "10-16"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-88.968842,
+					37.761052
+				]
+			},
+			"properties": {
+				"event": "Herrin Massacre",
+				"date": "June 21–22, 1922",
+				"killed": "3 heroes and 20 scabs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.219729,
+					47.979489
+				]
+			},
+			"properties": {
+				"event": "Everett Massacre",
+				"date": "November 5, 1916",
+				"killed": "5-12"
+			}
+		}
+	]
+}
