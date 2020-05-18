@@ -30,6 +30,6 @@ $.getJSON("sites.geojson", function (data) {
 	}).addTo(map);
 });
 
-window.setTimeout(function () {
+setTimeout(function () {
     map.invalidateSize();
 }, 0);
