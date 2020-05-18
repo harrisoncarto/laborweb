@@ -5,6 +5,10 @@ var geojsonMarkerOptions = {
 	fillOpacity: .5
 };
 
+setTimeout(function () {
+    map.invalidateSize();
+}, 1000);
+
 var map = L.map('map', {
 	center: [38.0902, -95.7129],
 	zoom: 5
@@ -29,7 +33,3 @@ $.getJSON("sites.geojson", function (data) {
 		}
 	}).addTo(map);
 });
-
-setTimeout(function () {
-    map.invalidateSize();
-}, 1000);
