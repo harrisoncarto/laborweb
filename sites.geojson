@@ -288,6 +288,54 @@
 				"industry": "Coal mining",
 				"killed": "7"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-91.302100,
+					29.693300
+				]
+			},
+			"properties": {
+				"event": "Precursor to Thibodaux Massacre",
+				"date": "November 5, 1887",
+				"industry": "Coal mining",
+				"killed": "As many as 20"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.027222,
+					40.025278
+				]
+			},
+			"properties": {
+				"event": "Columbine Mine Massacre",
+				"date": "November 21, 1927",
+				"industry": "Coal mining",
+				"killed": "7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.532219,
+					46.016802
+				]
+			},
+			"properties": {
+				"event": "Anaconda Road Massacre",
+				"date": "April 21, 1920",
+				"industry": "Copper mining",
+				"killed": "1, in the back"
+			}
 		}
 	]
 }
