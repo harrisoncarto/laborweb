@@ -336,6 +336,137 @@
 				"industry": "Copper mining",
 				"killed": "1, in the back"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.952236,
+					46.724201
+				]
+			},
+			"properties": {
+				"event": "Centralia Tragedy",
+				"date": "November 11, 1919",
+				"industry": "Lumber",
+				"killed": "1 (and 5 unionbusters)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.761525,
+					36.065482
+				]
+			},
+			"properties": {
+				"event": "Greensboro Massacre",
+				"date": "November 3, 1979",
+				"industry": "Textile",
+				"killed": "1 (and 5 unionbusters)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.147610,
+					42.300794
+				]
+			},
+			"properties": {
+				"event": "Ford Hunger March",
+				"date": "November 3, 1979",
+				"industry": "Auto manufacturing",
+				"killed": "5"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-109.218900,
+					41.591133
+				]
+			},
+			"properties": {
+				"event": "Rock Springs Massacre",
+				"date": "September 2, 1885",
+				"industry": "Coal mining",
+				"killed": "28 or more"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.374800,
+					33.527400
+				]
+			},
+			"properties": {
+				"event": "Leflore County Massacre",
+				"date": "September 2–12, 1889",
+				"industry": "Farming",
+				"killed": "Between 6-100"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.539912,
+					41.682895
+				]
+			},
+			"properties": {
+				"event": "Memorial Day Massacre of 1937",
+				"date": "May 30, 1937",
+				"industry": "Steel",
+				"killed": "10"
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.152300,
+					37.815900
+				]
+			},
+			"properties": {
+				"event": "Battle of Stanaford",
+				"date": "February 25, 1903",
+				"industry": "Coal mining",
+				"killed": "6"
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.837518,
+					34.3433883
+				]
+			},
+			"properties": {
+				"event": "Elaine Massacre",
+				"date": "September 30, 1919",
+				"industry": "Coal mining",
+				"killed": "100–237"
+
+			}
 		}
 	]
 }
