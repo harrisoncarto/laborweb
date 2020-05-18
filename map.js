@@ -29,3 +29,7 @@ $.getJSON("sites.geojson", function (data) {
 		}
 	}).addTo(map);
 });
+
+setTimeout(function () {
+    map.invalidateSize();
+}, 0);
