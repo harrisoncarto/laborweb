@@ -365,7 +365,7 @@
 			"properties": {
 				"event": "Greensboro Massacre",
 				"date": "November 3, 1979",
-				"industry": "Textile",
+				"industry": "Textiles",
 				"killed": "1 (and 5 unionbusters)"
 			}
 		},
@@ -465,6 +465,23 @@
 				"date": "September 30, 1919",
 				"industry": "Coal mining",
 				"killed": "100–237"
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.992078,
+					35.679110
+				]
+			},
+			"properties": {
+				"event": "Marion Massacre",
+				"date": "October 2, 1929",
+				"industry": "Textiles",
+				"killed": "6"
 
 			}
 		}
