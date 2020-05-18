@@ -32,4 +32,4 @@ $.getJSON("sites.geojson", function (data) {
 
 setTimeout(function () {
     map.invalidateSize();
-}, 0);
+}, 1000);
