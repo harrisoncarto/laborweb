@@ -11,9 +11,9 @@ var map = L.map('map', {
 });
 
 L.tileLayer(
-	'https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
-		maxZoom: 20,
-		attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+	'https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>'
 	}).addTo(map);
 
 var sites;
@@ -21,7 +21,7 @@ var sites;
 $.getJSON("sites.geojson", function (data) {
 	sites = L.geoJson(data, {
 		onEachFeature: function (feature, layer) {
-			layer.bindPopup("<b>" + "Event: " + "</b>"  + feature.properties.event + "<br>" + feature.properties.date + "<br>" + "<b>" + "Killed: " + "</b>" + feature.properties.killed);
+			layer.bindPopup("<b>" + "Event: " + "</b>"  + feature.properties.event + "<br>" + "<i>" + feature.properties.date + "</i>" + "<br>" + "<b>" + "Industry: " + "</b>" + feature.properties.industry + "<br>" + "<b>" + "Killed: " + "</b>" + feature.properties.killed);
 		},
 		pointToLayer: function (feature, latlng) {
 			return L.circleMarker(latlng, geojsonMarkerOptions);

@@ -12,7 +12,8 @@
 			},
 			"properties": {
 				"event": "The Battle of Blair Mountain",
-				"date": "August 25, 1921–September 2, 1921",
+				"date": "August 25 – September 2, 1921",
+				"industry": "Coal mining",
 				"killed": "50–100"
 			}
 		},
@@ -27,7 +28,8 @@
 			},
 			"properties": {
 				"event": "Paint Creek Mine War",
-				"date": "April 18, 1912–July 1913",
+				"date": "April 18, 1912 – July 1913",
+				"industry": "Coal mining",
 				"killed": "Up to 50"
 			}
 		},
@@ -43,6 +45,7 @@
 			"properties": {
 				"event": "Ludlow Massacre",
 				"date": "April 20, 1914",
+				"industry": "Coal mining",
 				"killed": "12 children, 8 adults"
 			}
 		},
@@ -56,8 +59,9 @@
 				]
 			},
 			"properties": {
-				"event": "Pittsburgh railroad strike of 1877",
-				"date": "July 19–30, 1877",
+				"event": "Pittsburgh Railroad Strike of 1877",
+				"date": "July 19 – 30, 1877",
+				"industry": "Railroad",
 				"killed": "40"
 			}
 		},
@@ -71,8 +75,9 @@
 				]
 			},
 			"properties": {
-				"event": "Baltimore railroad strike of 1877",
-				"date": "July 16–29, 1877",
+				"event": "Baltimore Railroad Strike of 1877",
+				"date": "July 16 – 29, 1877",
+				"industry": "Railroad",
 				"killed": "10-22"
 			}
 		},
@@ -86,8 +91,9 @@
 				]
 			},
 			"properties": {
-				"event": "Thibodaux massacre",
-				"date": "November 22-25, 1887",
+				"event": "Thibodaux Massacre",
+				"date": "November 22 - 25, 1887",
+				"industry": "Sugar",
 				"killed": "Approximately 60"
 			}
 		},
@@ -103,6 +109,7 @@
 			"properties": {
 				"event": "Battle of the Viaduct",
 				"date": "July 25, 1887",
+				"industry": "Railroad",
 				"killed": "30"
 			}
 		},
@@ -118,6 +125,7 @@
 			"properties": {
 				"event": "Reading Railroad Massacre",
 				"date": "July 23, 1877",
+				"industry": "Railroad",
 				"killed": "10-16"
 			}
 		},
@@ -132,8 +140,9 @@
 			},
 			"properties": {
 				"event": "Herrin Massacre",
-				"date": "June 21–22, 1922",
-				"killed": "3"
+				"date": "June 21 – 22, 1922",
+				"industry": "Coal mining",
+				"killed": "3 (and 20 strikebreakers)"
 			}
 		},
 		{
@@ -148,7 +157,136 @@
 			"properties": {
 				"event": "Everett Massacre",
 				"date": "November 5, 1916",
+				"industry": "Shingle manufacturing",
 				"killed": "5-12"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.889681,
+					42.999733
+				]
+			},
+			"properties": {
+				"event": "Bay View Massacre",
+				"date": "May 5, 1886",
+				"industry": "Building trades",
+				"killed": "7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.563249,
+					40.148169
+				]
+			},
+			"properties": {
+				"event": "Morewood Massacre",
+				"date": "February 10 - May 26, 1891",
+				"industry": "Coke",
+				"killed": "9"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.967597,
+					40.991446
+				]
+			},
+			"properties": {
+				"event": "Lattimer Massacre",
+				"date": "September 10, 1897",
+				"industry": "Anthracite mining",
+				"killed": "19"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.665008,
+					41.406747
+				]
+			},
+			"properties": {
+				"event": "Scranton General Strike",
+				"date": "July 23 – November 17, 1877",
+				"industry": "Coal, railroad",
+				"killed": "4"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-159.588515,
+					21.910128
+				]
+			},
+			"properties": {
+				"event": "Hanapēpē Massacre",
+				"date": "September 9, 1924",
+				"industry": "Sugar",
+				"killed": "16"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.608073,
+					41.692804
+				]
+			},
+			"properties": {
+				"event": "Pullman Massacre",
+				"date": "May 11 – July 20, 1894",
+				"industry": "Railroad",
+				"killed": "30"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.896775,
+					40.413130
+				]
+			},
+			"properties": {
+				"event": "Homestead Massacre",
+				"date": "July 1 – November 20, 1892",
+				"industry": "Steel",
+				"killed": "7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.767055,
+					39.501051
+				]
+			},
+			"properties": {
+				"event": "Battle of Virden",
+				"date": "October 12, 1898",
+				"industry": "Coal mining",
+				"killed": "7"
 			}
 		}
 	]
