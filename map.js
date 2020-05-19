@@ -4,20 +4,6 @@ var geojsonMarkerOptions = {
 	weight: 0,
 	fillOpacity: .5
 };
-/*
-var map = L.map('map', {
-	center: [38.0902, -95.7129],
-	zoom: 5
-});
-
-
-
-L.tileLayer(
-	'https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
-		maxZoom: 19,
-		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>'
-	}).addTo(map);
-	*/
 
 var token = 'pk.eyJ1IjoiaGFpcnlzdW5jb2xkIiwiYSI6ImNrYWQwNm9qeDA1aTIydHFwM2QxNGRjc2sifQ.EjgPn6tT5lAdWE9swlxp7w';
 
