@@ -38,7 +38,7 @@ var sites;
 $.getJSON("sites.geojson", function (data) {
 	sites = L.geoJson(data, {
 		onEachFeature: function (feature, layer) {
-			layer.bindPopup(`<b>Event: </b>${feature.properties.event}<br><i>${feature.properties.date}</i><br><b>Industry: </b>${feature.properties.industry}<br><b>Killed: </b>${feature.properties.killed}`);
+			layer.bindPopup(`<b>Event: </b>${feature.properties.event}<br><i>${feature.properties.date}</i><br><b>Industry: </b>${feature.properties.industry}<br><b>Losses: </b>${feature.properties.losses}`);
 		},
 		pointToLayer: function (feature, latlng) {
 			return L.circleMarker(latlng, geojsonMarkerOptions);

@@ -14,7 +14,7 @@
 				"event": "The Battle of Blair Mountain",
 				"date": "August 25 – September 2, 1921",
 				"industry": "Coal mining",
-				"killed": "50–100 killed; Hundreds wounded"
+				"losses": "50–100 losses; Hundreds wounded"
 			}
 		},
 		{
@@ -30,7 +30,7 @@
 				"event": "Paint Creek Mine War",
 				"date": "April 18, 1912 – July 1913",
 				"industry": "Coal mining",
-				"killed": "Up to 50"
+				"losses": "Up to 50"
 			}
 		},
 		{
@@ -46,7 +46,7 @@
 				"event": "Ludlow Massacre",
 				"date": "April 20, 1914",
 				"industry": "Coal mining",
-				"killed": "12 children, 8 adults, 1 bystander"
+				"losses": "12 children, 8 adults, 1 bystander"
 			}
 		},
 		{
@@ -62,7 +62,7 @@
 				"event": "Pittsburgh Railroad Strike of 1877",
 				"date": "July 19 – 30, 1877",
 				"industry": "Railroad",
-				"killed": "40"
+				"losses": "40"
 			}
 		},
 		{
@@ -78,7 +78,7 @@
 				"event": "Baltimore Railroad Strike of 1877",
 				"date": "July 16 – 29, 1877",
 				"industry": "Railroad",
-				"killed": "10-22"
+				"losses": "10-22"
 			}
 		},
 		{
@@ -94,7 +94,7 @@
 				"event": "Thibodaux Massacre",
 				"date": "November 22 - 25, 1887",
 				"industry": "Sugar",
-				"killed": "Approximately 60"
+				"losses": "Approximately 60"
 			}
 		},
 		{
@@ -110,7 +110,7 @@
 				"event": "Battle of the Viaduct",
 				"date": "July 25, 1887",
 				"industry": "Railroad",
-				"killed": "30"
+				"losses": "30"
 			}
 		},
 		{
@@ -126,7 +126,7 @@
 				"event": "Reading Railroad Massacre",
 				"date": "July 23, 1877",
 				"industry": "Railroad",
-				"killed": "10-16"
+				"losses": "10-16"
 			}
 		},
 		{
@@ -142,7 +142,7 @@
 				"event": "Herrin Massacre",
 				"date": "June 21 – 22, 1922",
 				"industry": "Coal mining",
-				"killed": "3 (and 20 strikebreakers)"
+				"losses": "3 (and 20 strikebreakers)"
 			}
 		},
 		{
@@ -158,7 +158,7 @@
 				"event": "Everett Massacre",
 				"date": "November 5, 1916",
 				"industry": "Shingle manufacturing",
-				"killed": "5-12"
+				"losses": "5-12"
 			}
 		},
 		{
@@ -174,7 +174,7 @@
 				"event": "Bay View Massacre",
 				"date": "May 5, 1886",
 				"industry": "Building trades",
-				"killed": "7"
+				"losses": "7"
 			}
 		},
 		{
@@ -190,7 +190,7 @@
 				"event": "Morewood Massacre",
 				"date": "February 10 - May 26, 1891",
 				"industry": "Coke",
-				"killed": "9"
+				"losses": "9"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 				"event": "Lattimer Massacre",
 				"date": "September 10, 1897",
 				"industry": "Anthracite mining",
-				"killed": "19"
+				"losses": "19"
 			}
 		},
 		{
@@ -222,7 +222,7 @@
 				"event": "Scranton General Strike",
 				"date": "July 23 – November 17, 1877",
 				"industry": "Coal, railroad",
-				"killed": "4"
+				"losses": "4"
 			}
 		},
 		{
@@ -238,7 +238,7 @@
 				"event": "Hanapēpē Massacre",
 				"date": "September 9, 1924",
 				"industry": "Sugar",
-				"killed": "16"
+				"losses": "16"
 			}
 		},
 		{
@@ -254,7 +254,7 @@
 				"event": "Pullman Massacre",
 				"date": "May 11 – July 20, 1894",
 				"industry": "Railroad",
-				"killed": "30"
+				"losses": "30"
 			}
 		},
 		{
@@ -270,7 +270,7 @@
 				"event": "Homestead Massacre",
 				"date": "July 1 – November 20, 1892",
 				"industry": "Steel",
-				"killed": "7"
+				"losses": "7"
 			}
 		},
 		{
@@ -286,7 +286,7 @@
 				"event": "Battle of Virden",
 				"date": "October 12, 1898",
 				"industry": "Coal mining",
-				"killed": "7"
+				"losses": "7"
 			}
 		},
 		{
@@ -302,7 +302,7 @@
 				"event": "Precursor to Thibodaux Massacre",
 				"date": "November 5, 1887",
 				"industry": "Coal mining",
-				"killed": "As many as 20"
+				"losses": "As many as 20"
 			}
 		},
 		{
@@ -318,7 +318,7 @@
 				"event": "Columbine Mine Massacre",
 				"date": "November 21, 1927",
 				"industry": "Coal mining",
-				"killed": "7"
+				"losses": "7"
 			}
 		},
 		{
@@ -334,7 +334,7 @@
 				"event": "Anaconda Road Massacre",
 				"date": "April 21, 1920",
 				"industry": "Copper mining",
-				"killed": "1, in the back"
+				"losses": "1, in the back"
 			}
 		},
 		{
@@ -350,7 +350,7 @@
 				"event": "Centralia Tragedy",
 				"date": "November 11, 1919",
 				"industry": "Lumber",
-				"killed": "1 (and 5 unionbusters)"
+				"losses": "1 (and 5 unionbusters)"
 			}
 		},
 		{
@@ -366,7 +366,7 @@
 				"event": "Greensboro Massacre",
 				"date": "November 3, 1979",
 				"industry": "Textiles",
-				"killed": "1 (and 5 unionbusters)"
+				"losses": "1 (and 5 unionbusters)"
 			}
 		},
 		{
@@ -382,7 +382,7 @@
 				"event": "Ford Hunger March",
 				"date": "November 3, 1979",
 				"industry": "Auto manufacturing",
-				"killed": "5"
+				"losses": "5"
 			}
 		},
 		{
@@ -398,7 +398,7 @@
 				"event": "Rock Springs Massacre",
 				"date": "September 2, 1885",
 				"industry": "Coal mining",
-				"killed": "28 or more"
+				"losses": "28 or more"
 			}
 		},
 		{
@@ -414,7 +414,7 @@
 				"event": "Leflore County Massacre",
 				"date": "September 2–12, 1889",
 				"industry": "Farming",
-				"killed": "Between 6-100",
+				"losses": "Between 6-100",
 				"wounded": "10"
 			}
 		},
@@ -431,7 +431,7 @@
 				"event": "Memorial Day Massacre of 1937",
 				"date": "May 30, 1937",
 				"industry": "Steel",
-				"killed": "10"
+				"losses": "10"
 
 			}
 		},
@@ -448,7 +448,7 @@
 				"event": "Battle of Stanaford",
 				"date": "February 25, 1903",
 				"industry": "Coal mining",
-				"killed": "6"
+				"losses": "6"
 
 			}
 		},
@@ -465,7 +465,7 @@
 				"event": "Elaine Massacre",
 				"date": "September 30, 1919",
 				"industry": "Coal mining",
-				"killed": "100–237"
+				"losses": "100–237"
 
 			}
 		},
@@ -482,7 +482,7 @@
 				"event": "Marion Massacre",
 				"date": "October 2, 1929",
 				"industry": "Textiles",
-				"killed": "6"
+				"losses": "6, mostly in the back"
 
 			}
 		},
@@ -499,7 +499,41 @@
 				"event": "Battle of Matewan",
 				"date": "October 2, 1929",
 				"industry": "Textiles",
-				"killed": "3 (and 7 strikebreakers)"
+				"losses": "3 (and 7 strikebreakers)"
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.470400,
+					40.235400
+				]
+			},
+			"properties": {
+				"event": "Westmoreland County Coal Strike",
+				"date": "February 1910-July 1911",
+				"industry": "Coal mining",
+				"losses": "16"
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.634077,
+					41.083777
+				]
+			},
+			"properties": {
+				"event": "Women's Day Massacre",
+				"date": "June 19, 1937",
+				"industry": "Steel",
+				"losses": "16"
 
 			}
 		}
