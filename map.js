@@ -22,8 +22,8 @@ L.tileLayer(
 var token = 'pk.eyJ1IjoiaGFpcnlzdW5jb2xkIiwiYSI6ImNrYWQwNm9qeDA1aTIydHFwM2QxNGRjc2sifQ.EjgPn6tT5lAdWE9swlxp7w';
 
 var map = L.map('map', {
-	center: [38.0902, -95.7129],
-	zoom: 5,
+	center: [35.0902, -115.7129],
+	zoom: 4,
 });
 
 L.tileLayer(

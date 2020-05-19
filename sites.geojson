@@ -14,7 +14,8 @@
 				"event": "The Battle of Blair Mountain",
 				"date": "August 25 – September 2, 1921",
 				"industry": "Coal mining",
-				"killed": "50–100"
+				"killed": "50–100",
+				"wounded": "Hundreds"
 			}
 		},
 		{
@@ -46,7 +47,8 @@
 				"event": "Ludlow Massacre",
 				"date": "April 20, 1914",
 				"industry": "Coal mining",
-				"killed": "12 children, 8 adults"
+				"killed": "12 children, 8 adults",
+				"wounded": "Hundreds"
 			}
 		},
 		{
@@ -62,7 +64,8 @@
 				"event": "Pittsburgh Railroad Strike of 1877",
 				"date": "July 19 – 30, 1877",
 				"industry": "Railroad",
-				"killed": "40"
+				"killed": "40",
+				"wounded": "10"
 			}
 		},
 		{
@@ -78,7 +81,8 @@
 				"event": "Baltimore Railroad Strike of 1877",
 				"date": "July 16 – 29, 1877",
 				"industry": "Railroad",
-				"killed": "10-22"
+				"killed": "10-22",
+				"wounded": "10"
 			}
 		},
 		{
@@ -94,7 +98,8 @@
 				"event": "Thibodaux Massacre",
 				"date": "November 22 - 25, 1887",
 				"industry": "Sugar",
-				"killed": "Approximately 60"
+				"killed": "Approximately 60",
+				"wounded": "10"
 			}
 		},
 		{
@@ -110,7 +115,8 @@
 				"event": "Battle of the Viaduct",
 				"date": "July 25, 1887",
 				"industry": "Railroad",
-				"killed": "30"
+				"killed": "30",
+				"wounded": "10"
 			}
 		},
 		{
@@ -126,7 +132,8 @@
 				"event": "Reading Railroad Massacre",
 				"date": "July 23, 1877",
 				"industry": "Railroad",
-				"killed": "10-16"
+				"killed": "10-16",
+				"wounded": "10"
 			}
 		},
 		{
@@ -142,7 +149,8 @@
 				"event": "Herrin Massacre",
 				"date": "June 21 – 22, 1922",
 				"industry": "Coal mining",
-				"killed": "3 (and 20 strikebreakers)"
+				"killed": "3 (and 20 strikebreakers)",
+				"wounded": "10"
 			}
 		},
 		{
@@ -158,7 +166,8 @@
 				"event": "Everett Massacre",
 				"date": "November 5, 1916",
 				"industry": "Shingle manufacturing",
-				"killed": "5-12"
+				"killed": "5-12",
+				"wounded": "10"
 			}
 		},
 		{
@@ -174,7 +183,8 @@
 				"event": "Bay View Massacre",
 				"date": "May 5, 1886",
 				"industry": "Building trades",
-				"killed": "7"
+				"killed": "7",
+				"wounded": "10"
 			}
 		},
 		{
@@ -190,7 +200,8 @@
 				"event": "Morewood Massacre",
 				"date": "February 10 - May 26, 1891",
 				"industry": "Coke",
-				"killed": "9"
+				"killed": "9",
+				"wounded": "10"
 			}
 		},
 		{
@@ -206,7 +217,8 @@
 				"event": "Lattimer Massacre",
 				"date": "September 10, 1897",
 				"industry": "Anthracite mining",
-				"killed": "19"
+				"killed": "19",
+				"wounded": "10"
 			}
 		},
 		{
@@ -222,7 +234,8 @@
 				"event": "Scranton General Strike",
 				"date": "July 23 – November 17, 1877",
 				"industry": "Coal, railroad",
-				"killed": "4"
+				"killed": "4",
+				"wounded": "10"
 			}
 		},
 		{
@@ -238,7 +251,8 @@
 				"event": "Hanapēpē Massacre",
 				"date": "September 9, 1924",
 				"industry": "Sugar",
-				"killed": "16"
+				"killed": "16",
+				"wounded": "10"
 			}
 		},
 		{
@@ -254,7 +268,8 @@
 				"event": "Pullman Massacre",
 				"date": "May 11 – July 20, 1894",
 				"industry": "Railroad",
-				"killed": "30"
+				"killed": "30",
+				"wounded": "10"
 			}
 		},
 		{
@@ -270,7 +285,8 @@
 				"event": "Homestead Massacre",
 				"date": "July 1 – November 20, 1892",
 				"industry": "Steel",
-				"killed": "7"
+				"killed": "7",
+				"wounded": "10"
 			}
 		},
 		{
@@ -286,7 +302,8 @@
 				"event": "Battle of Virden",
 				"date": "October 12, 1898",
 				"industry": "Coal mining",
-				"killed": "7"
+				"killed": "7",
+				"wounded": "10"
 			}
 		},
 		{
@@ -302,7 +319,8 @@
 				"event": "Precursor to Thibodaux Massacre",
 				"date": "November 5, 1887",
 				"industry": "Coal mining",
-				"killed": "As many as 20"
+				"killed": "As many as 20",
+				"wounded": "10"
 			}
 		},
 		{
@@ -318,7 +336,8 @@
 				"event": "Columbine Mine Massacre",
 				"date": "November 21, 1927",
 				"industry": "Coal mining",
-				"killed": "7"
+				"killed": "7",
+				"wounded": "10"
 			}
 		},
 		{
@@ -334,7 +353,8 @@
 				"event": "Anaconda Road Massacre",
 				"date": "April 21, 1920",
 				"industry": "Copper mining",
-				"killed": "1, in the back"
+				"killed": "1, in the back",
+				"wounded": "10"
 			}
 		},
 		{
@@ -350,7 +370,8 @@
 				"event": "Centralia Tragedy",
 				"date": "November 11, 1919",
 				"industry": "Lumber",
-				"killed": "1 (and 5 unionbusters)"
+				"killed": "1 (and 5 unionbusters)",
+				"wounded": "10"
 			}
 		},
 		{
@@ -366,7 +387,8 @@
 				"event": "Greensboro Massacre",
 				"date": "November 3, 1979",
 				"industry": "Textiles",
-				"killed": "1 (and 5 unionbusters)"
+				"killed": "1 (and 5 unionbusters)",
+				"wounded": "10"
 			}
 		},
 		{
@@ -382,7 +404,8 @@
 				"event": "Ford Hunger March",
 				"date": "November 3, 1979",
 				"industry": "Auto manufacturing",
-				"killed": "5"
+				"killed": "5",
+				"wounded": "10"
 			}
 		},
 		{
@@ -398,7 +421,8 @@
 				"event": "Rock Springs Massacre",
 				"date": "September 2, 1885",
 				"industry": "Coal mining",
-				"killed": "28 or more"
+				"killed": "28 or more",
+				"wounded": "10"
 			}
 		},
 		{
@@ -414,7 +438,8 @@
 				"event": "Leflore County Massacre",
 				"date": "September 2–12, 1889",
 				"industry": "Farming",
-				"killed": "Between 6-100"
+				"killed": "Between 6-100",
+				"wounded": "10"
 			}
 		},
 		{
@@ -430,7 +455,8 @@
 				"event": "Memorial Day Massacre of 1937",
 				"date": "May 30, 1937",
 				"industry": "Steel",
-				"killed": "10"
+				"killed": "10",
+				"wounded": "10"
 
 			}
 		},
@@ -447,7 +473,8 @@
 				"event": "Battle of Stanaford",
 				"date": "February 25, 1903",
 				"industry": "Coal mining",
-				"killed": "6"
+				"killed": "6",
+				"wounded": "10"
 
 			}
 		},
@@ -464,7 +491,8 @@
 				"event": "Elaine Massacre",
 				"date": "September 30, 1919",
 				"industry": "Coal mining",
-				"killed": "100–237"
+				"killed": "100–237",
+				"wounded": "10"
 
 			}
 		},
@@ -481,7 +509,8 @@
 				"event": "Marion Massacre",
 				"date": "October 2, 1929",
 				"industry": "Textiles",
-				"killed": "6"
+				"killed": "6",
+				"wounded": "Textiles"
 
 			}
 		}
